@@ -1,4 +1,3 @@
-```markdown
 # FinanceTracker Pro
 
 FinanceTracker Pro is an advanced financial management tool designed to help users track their personal finance wallets, integrate with banks for real-time transaction updates, follow stock markets, and leverage artificial intelligence (AI) to provide deep insights and financial forecasting.
@@ -38,7 +37,6 @@ To install FinanceTracker Pro, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/FinanceTrackerPro.git
-   ```
 
 2. Navigate to the project directory:
 
