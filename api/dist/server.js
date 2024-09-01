@@ -6,10 +6,10 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const express_1 = __importDefault(require("express"));
 const app = (0, express_1.default)();
 const port = 1283;
-app.get("/", (req, res) => {
+app.get("/", (_, res) => {
     res.send("Fetched All Data");
 });
-app.use(express_1.default.json()); // Middleware to parse JSON bodies
+app.use(express_1.default.json());
 app.post("/save", (req, res) => {
     const product = req.body.product;
     const date = req.body.date;
@@ -22,6 +22,10 @@ app.post("/save", (req, res) => {
         description: description,
     });
 });
+const validateBeforeProcess = (body, ROUTE_TYPE) => {
+    if (ROUTE_TYPE === "CREATE") {
+    }
+};
 app.listen(port, () => {
     console.log(`Server is running on http://localhost:${port}`);
 });
