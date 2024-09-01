@@ -75,6 +75,7 @@ finance-app Pro integrates with multiple financial institutions, stock markets, 
 - Major international banks (e.g., Chase, Bank of America, HSBC)
 - Regional banks and credit unions
 - Digital banks (e.g., Revolut, N26)
+- AKBANK
 
 ### Stock Markets
 
@@ -82,6 +83,7 @@ finance-app Pro integrates with multiple financial institutions, stock markets, 
 - NASDAQ
 - S&P 500
 - Crypto exchanges (e.g., Coinbase, Binance)
+- BIST
 
 ### AI Platforms
 
