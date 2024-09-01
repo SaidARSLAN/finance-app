@@ -36,7 +36,7 @@ To install finance-app Pro, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/finance-app.git
+   git clone https://github.com/SaidARSLAN/finance-app.git
 
 2. Navigate to the project directory:
 
