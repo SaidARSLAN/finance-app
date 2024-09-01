@@ -1,6 +1,6 @@
-# FinanceTracker Pro
+# finance-app Pro
 
-FinanceTracker Pro is an advanced financial management tool designed to help users track their personal finance wallets, integrate with banks for real-time transaction updates, follow stock markets, and leverage artificial intelligence (AI) to provide deep insights and financial forecasting.
+finance-app Pro is an advanced financial management tool designed to help users track their personal finance wallets, integrate with banks for real-time transaction updates, follow stock markets, and leverage artificial intelligence (AI) to provide deep insights and financial forecasting.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ FinanceTracker Pro is an advanced financial management tool designed to help use
 
 ## Overview
 
-FinanceTracker Pro aims to be your all-in-one financial assistant, providing comprehensive tools to manage your personal finances and investments. By integrating with your bank accounts and stock market data, it provides a unified view of your financial health. Additionally, our AI-driven module offers personalized insights and recommendations, making it easier to make informed financial decisions.
+finance-app Pro aims to be your all-in-one financial assistant, providing comprehensive tools to manage your personal finances and investments. By integrating with your bank accounts and stock market data, it provides a unified view of your financial health. Additionally, our AI-driven module offers personalized insights and recommendations, making it easier to make informed financial decisions.
 
 ## Features
 
@@ -31,17 +31,17 @@ FinanceTracker Pro aims to be your all-in-one financial assistant, providing com
 
 ## Installation
 
-To install FinanceTracker Pro, follow these steps:
+To install finance-app Pro, follow these steps:
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/FinanceTrackerPro.git
+   git clone https://github.com/yourusername/finance-appPro.git
 
 2. Navigate to the project directory:
 
    ```bash
-   cd FinanceTrackerPro
+   cd finance-appPro
    ```
 
 3. Install dependencies:
@@ -68,7 +68,7 @@ To install FinanceTracker Pro, follow these steps:
 
 ## Integrations
 
-FinanceTracker Pro integrates with multiple financial institutions, stock markets, and AI platforms to provide a seamless user experience.
+finance-app Pro integrates with multiple financial institutions, stock markets, and AI platforms to provide a seamless user experience.
 
 ### Supported Banks
 
@@ -91,7 +91,7 @@ FinanceTracker Pro integrates with multiple financial institutions, stock market
 
 ## AI-Driven Insights
 
-The AI module in FinanceTracker Pro uses machine learning to analyze your spending patterns, predict future expenses, and provide actionable insights. Key features include:
+The AI module in finance-app Pro uses machine learning to analyze your spending patterns, predict future expenses, and provide actionable insights. Key features include:
 
 - **Financial Forecasting**: Predict future financial trends based on historical data.
 - **Spending Analysis**: Categorize expenses and identify areas to save money.
@@ -108,7 +108,7 @@ Configure the application by editing the `config.json` file located in the root 
 
 ## Roadmap
 
-FinanceTracker Pro is constantly evolving with new features and improvements. Here are some of the upcoming features:
+finance-app Pro is constantly evolving with new features and improvements. Here are some of the upcoming features:
 
 - [ ] Integration with more global banks
 - [ ] Support for additional stock markets and crypto exchanges
@@ -118,7 +118,7 @@ FinanceTracker Pro is constantly evolving with new features and improvements. He
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to FinanceTracker Pro, please follow these steps:
+We welcome contributions from the community! If you'd like to contribute to finance-app Pro, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature`).
@@ -134,4 +134,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Thank you for using FinanceTracker Pro! We hope it helps you take control of your financial future.
+Thank you for using finance-app Pro! We hope it helps you take control of your financial future.
